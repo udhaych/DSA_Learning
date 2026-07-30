@@ -1,32 +1,23 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-
-        unordered_map<int, int> freq;
-
-        int low = 0;
-        int ans = 0;
-
-        for (int high = 0; high < fruits.size(); high++) {
-
-            // Add current fruit
+        unordered_map<int,int>freq;
+        int low=0;
+        int res=INT_MIN;
+        for(int high=0;high<fruits.size();high++){
             freq[fruits[high]]++;
-
-            // More than 2 fruit types
-            while (freq.size() > 2) {
-
+            while(freq.size()>2){
                 freq[fruits[low]]--;
-
-                if (freq[fruits[low]] == 0)
+                if(freq[fruits[low]]==0){
                     freq.erase(fruits[low]);
-
+                }
+            
                 low++;
             }
-
-            // Valid window
-            ans = max(ans, high - low + 1);
+                int len=high-low+1;
+                res=max(res,len);
+            
         }
-
-        return ans;
+        return res;
     }
 };

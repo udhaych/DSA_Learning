@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/udhaych/DSA_Learning/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/udhaych/DSA_Learning/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udhaych/DSA_Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/udhaych/DSA_Learning/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/udhaych/DSA_Learning/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udhaych/DSA_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/udhaych/DSA_Learning/tree/master/0209-minimum-size-subarray-sum) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udhaych/DSA_Learning/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/udhaych/DSA_Learning/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->

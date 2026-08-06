@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/udhaych/DSA_Learning/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/udhaych/DSA_Learning/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/udhaych/DSA_Learning/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/udhaych/DSA_Learning/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/udhaych/DSA_Learning/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/udhaych/DSA_Learning/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/udhaych/DSA_Learning/tree/master/1004-max-consecutive-ones-iii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udhaych/DSA_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/udhaych/DSA_Learning/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/udhaych/DSA_Learning/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/udhaych/DSA_Learning/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/udhaych/DSA_Learning/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/udhaych/DSA_Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/udhaych/DSA_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/udhaych/DSA_Learning/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/udhaych/DSA_Learning/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/udhaych/DSA_Learning/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/udhaych/DSA_Learning/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/udhaych/DSA_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/udhaych/DSA_Learning/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/udhaych/DSA_Learning/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/udhaych/DSA_Learning/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/udhaych/DSA_Learning/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/udhaych/DSA_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/udhaych/DSA_Learning/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/udhaych/DSA_Learning/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/udhaych/DSA_Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/udhaych/DSA_Learning/tree/master/0904-fruit-into-baskets) |
 ## String

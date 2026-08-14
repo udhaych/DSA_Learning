@@ -1,0 +1,22 @@
+class Solution {
+public:
+    vector<int> findMissingElements(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+
+        vector<int> shivang;
+
+        for(int i = 0; i < nums.size() - 1; i++) {
+
+            int diff = nums[i + 1] - nums[i];
+
+            if(diff > 1) {
+
+                for(int j = nums[i] + 1; j < nums[i + 1]; j++) {
+                    shivang.push_back(j);
+                }
+            }
+        }
+
+        return shivang;
+    }
+};

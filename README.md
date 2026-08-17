@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/udhaych/DSA_Learning/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/udhaych/DSA_Learning/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/udhaych/DSA_Learning/tree/master/1004-max-consecutive-ones-iii) |
+| [1763-longest-nice-substring](https://github.com/udhaych/DSA_Learning/tree/master/1763-longest-nice-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udhaych/DSA_Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/udhaych/DSA_Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/udhaych/DSA_Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/udhaych/DSA_Learning/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/udhaych/DSA_Learning/tree/master/0904-fruit-into-baskets) |
+| [1763-longest-nice-substring](https://github.com/udhaych/DSA_Learning/tree/master/1763-longest-nice-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udhaych/DSA_Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/udhaych/DSA_Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/udhaych/DSA_Learning/tree/master/3731-find-missing-elements) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/udhaych/DSA_Learning/tree/master/0076-minimum-window-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/udhaych/DSA_Learning/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/udhaych/DSA_Learning/tree/master/0424-longest-repeating-character-replacement) |
+| [1763-longest-nice-substring](https://github.com/udhaych/DSA_Learning/tree/master/1763-longest-nice-substring) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/udhaych/DSA_Learning/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/udhaych/DSA_Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/udhaych/DSA_Learning/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/udhaych/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
+| [1763-longest-nice-substring](https://github.com/udhaych/DSA_Learning/tree/master/1763-longest-nice-substring) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udhaych/DSA_Learning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Linked List
 |  |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/udhaych/DSA_Learning/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/udhaych/DSA_Learning/tree/master/1763-longest-nice-substring) |
 ## Pigeonhole Principle
 |  |
 | ------- |

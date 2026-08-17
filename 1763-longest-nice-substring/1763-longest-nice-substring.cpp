@@ -1,24 +1,27 @@
 class Solution {
 public:
     string longestNiceSubstring(string s) {
-        if (s.size() < 2)
-            return "";
+        int n = s.size();
+        int bestStart = 0;
+        int bestLen = 0;
 
-        unordered_set<char> st(s.begin(), s.end());
+        for (int i = 0; i < n; i++) {
+            int lower = 0;
+            int upper = 0;
 
-        for (int i = 0; i < s.size(); i++) {
-            char c = s[i];
+            for (int j = i; j < n; j++) {
+                if (islower(s[j]))
+                    lower |= (1 << (s[j] - 'a'));
+                else
+                    upper |= (1 << (s[j] - 'A'));
 
-            if (st.find(tolower(c)) == st.end() ||
-                st.find(toupper(c)) == st.end()) {
-
-                string left = longestNiceSubstring(s.substr(0, i));
-                string right = longestNiceSubstring(s.substr(i + 1));
-
-                return left.size() >= right.size() ? left : right;
+                if (lower == upper && j - i + 1 > bestLen) {
+                    bestStart = i;
+                    bestLen = j - i + 1;
+                }
             }
         }
 
-        return s;
+        return s.substr(bestStart, bestLen);
     }
 };

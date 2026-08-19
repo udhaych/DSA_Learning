@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/udhaych/DSA_Learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/udhaych/DSA_Learning/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/udhaych/DSA_Learning/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udhaych/DSA_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/udhaych/DSA_Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/udhaych/DSA_Learning/tree/master/0268-missing-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/udhaych/DSA_Learning/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/udhaych/DSA_Learning/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/udhaych/DSA_Learning/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/udhaych/DSA_Learning/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/udhaych/DSA_Learning/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/udhaych/DSA_Learning/tree/master/3345-smallest-divisible-digit-product-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/udhaych/DSA_Learning/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

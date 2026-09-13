@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/udhaych/DSA_Learning/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udhaych/DSA_Learning/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/udhaych/DSA_Learning/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/udhaych/DSA_Learning/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/udhaych/DSA_Learning/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/udhaych/DSA_Learning/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/udhaych/DSA_Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/udhaych/DSA_Learning/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/udhaych/DSA_Learning/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/udhaych/DSA_Learning/tree/master/0844-backspace-string-compare) |
 | [1763-longest-nice-substring](https://github.com/udhaych/DSA_Learning/tree/master/1763-longest-nice-substring) |
 | [2833-furthest-point-from-origin](https://github.com/udhaych/DSA_Learning/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/udhaych/DSA_Learning/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/udhaych/DSA_Learning/tree/master/0152-maximum-product-subarray) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/udhaych/DSA_Learning/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/udhaych/DSA_Learning/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->

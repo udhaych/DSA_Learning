@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/udhaych/DSA_Learning/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/udhaych/DSA_Learning/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/udhaych/DSA_Learning/tree/master/0455-assign-cookies) |
+| [0500-keyboard-row](https://github.com/udhaych/DSA_Learning/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/udhaych/DSA_Learning/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/udhaych/DSA_Learning/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/udhaych/DSA_Learning/tree/master/0904-fruit-into-baskets) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/udhaych/DSA_Learning/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/udhaych/DSA_Learning/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/udhaych/DSA_Learning/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/udhaych/DSA_Learning/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/udhaych/DSA_Learning/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/udhaych/DSA_Learning/tree/master/0904-fruit-into-baskets) |
 | [1763-longest-nice-substring](https://github.com/udhaych/DSA_Learning/tree/master/1763-longest-nice-substring) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/udhaych/DSA_Learning/tree/master/0076-minimum-window-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/udhaych/DSA_Learning/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/udhaych/DSA_Learning/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/udhaych/DSA_Learning/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/udhaych/DSA_Learning/tree/master/0796-rotate-string) |
 | [1763-longest-nice-substring](https://github.com/udhaych/DSA_Learning/tree/master/1763-longest-nice-substring) |
 | [2833-furthest-point-from-origin](https://github.com/udhaych/DSA_Learning/tree/master/2833-furthest-point-from-origin) |

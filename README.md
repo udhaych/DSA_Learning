@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/udhaych/DSA_Learning/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/udhaych/DSA_Learning/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udhaych/DSA_Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3206-alternating-groups-i](https://github.com/udhaych/DSA_Learning/tree/master/3206-alternating-groups-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/udhaych/DSA_Learning/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/udhaych/DSA_Learning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udhaych/DSA_Learning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/udhaych/DSA_Learning/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udhaych/DSA_Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/udhaych/DSA_Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3206-alternating-groups-i](https://github.com/udhaych/DSA_Learning/tree/master/3206-alternating-groups-i) |
 ## Prefix Sum
 |  |
 | ------- |

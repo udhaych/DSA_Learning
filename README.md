@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/udhaych/DSA_Learning/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/udhaych/DSA_Learning/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/udhaych/DSA_Learning/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhaych/DSA_Learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1763-longest-nice-substring](https://github.com/udhaych/DSA_Learning/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/udhaych/DSA_Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/udhaych/DSA_Learning/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/udhaych/DSA_Learning/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhaych/DSA_Learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/udhaych/DSA_Learning/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhaych/DSA_Learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

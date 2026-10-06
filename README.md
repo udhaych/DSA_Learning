@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/udhaych/DSA_Learning/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/udhaych/DSA_Learning/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/udhaych/DSA_Learning/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/udhaych/DSA_Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhaych/DSA_Learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1763-longest-nice-substring](https://github.com/udhaych/DSA_Learning/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/udhaych/DSA_Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/udhaych/DSA_Learning/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/udhaych/DSA_Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/udhaych/DSA_Learning/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Quicksort
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/udhaych/DSA_Learning/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/udhaych/DSA_Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhaych/DSA_Learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
@@ -270,5 +273,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/udhaych/DSA_Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhaych/DSA_Learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

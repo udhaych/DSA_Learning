@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/udhaych/DSA_Learning/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/udhaych/DSA_Learning/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/udhaych/DSA_Learning/tree/master/0076-minimum-window-substring) |
+| [0301-remove-invalid-parentheses](https://github.com/udhaych/DSA_Learning/tree/master/0301-remove-invalid-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/udhaych/DSA_Learning/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/udhaych/DSA_Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/udhaych/DSA_Learning/tree/master/0500-keyboard-row) |
@@ -278,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/udhaych/DSA_Learning/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/udhaych/DSA_Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhaych/DSA_Learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/udhaych/DSA_Learning/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/udhaych/DSA_Learning/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->

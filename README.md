@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/udhaych/DSA_Learning/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/udhaych/DSA_Learning/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/udhaych/DSA_Learning/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2574-left-and-right-sum-differences](https://github.com/udhaych/DSA_Learning/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/udhaych/DSA_Learning/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udhaych/DSA_Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3206-alternating-groups-i](https://github.com/udhaych/DSA_Learning/tree/master/3206-alternating-groups-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/udhaych/DSA_Learning/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/udhaych/DSA_Learning/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udhaych/DSA_Learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2574-left-and-right-sum-differences](https://github.com/udhaych/DSA_Learning/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |

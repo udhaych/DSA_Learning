@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/udhaych/DSA_Learning/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/udhaych/DSA_Learning/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/udhaych/DSA_Learning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/udhaych/DSA_Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/udhaych/DSA_Learning/tree/master/3783-mirror-distance-of-an-integer) |
 ## Tree
 |  |

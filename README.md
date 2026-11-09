@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/udhaych/DSA_Learning/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/udhaych/DSA_Learning/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/udhaych/DSA_Learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/udhaych/DSA_Learning/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/udhaych/DSA_Learning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/udhaych/DSA_Learning/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/udhaych/DSA_Learning/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/udhaych/DSA_Learning/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/udhaych/DSA_Learning/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/udhaych/DSA_Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhaych/DSA_Learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/udhaych/DSA_Learning/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |

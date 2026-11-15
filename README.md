@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/udhaych/DSA_Learning/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/udhaych/DSA_Learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/udhaych/DSA_Learning/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/udhaych/DSA_Learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/udhaych/DSA_Learning/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/udhaych/DSA_Learning/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udhaych/DSA_Learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/udhaych/DSA_Learning/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/udhaych/DSA_Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/udhaych/DSA_Learning/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/udhaych/DSA_Learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/udhaych/DSA_Learning/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udhaych/DSA_Learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/udhaych/DSA_Learning/tree/master/1732-find-the-highest-altitude) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/udhaych/DSA_Learning/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/udhaych/DSA_Learning/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/udhaych/DSA_Learning/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/udhaych/DSA_Learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/udhaych/DSA_Learning/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/udhaych/DSA_Learning/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/udhaych/DSA_Learning/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/udhaych/DSA_Learning/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/udhaych/DSA_Learning/tree/master/0152-maximum-product-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/udhaych/DSA_Learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/udhaych/DSA_Learning/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/udhaych/DSA_Learning/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/udhaych/DSA_Learning/tree/master/3693-climbing-stairs-ii) |

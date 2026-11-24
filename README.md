@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/udhaych/DSA_Learning/tree/master/3206-alternating-groups-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/udhaych/DSA_Learning/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/udhaych/DSA_Learning/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/udhaych/DSA_Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/udhaych/DSA_Learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/udhaych/DSA_Learning/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/udhaych/DSA_Learning/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/udhaych/DSA_Learning/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/udhaych/DSA_Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/udhaych/DSA_Learning/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/udhaych/DSA_Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/udhaych/DSA_Learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/udhaych/DSA_Learning/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/udhaych/DSA_Learning/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/udhaych/DSA_Learning/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/udhaych/DSA_Learning/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/udhaych/DSA_Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/udhaych/DSA_Learning/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/udhaych/DSA_Learning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/udhaych/DSA_Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/udhaych/DSA_Learning/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/udhaych/DSA_Learning/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/udhaych/DSA_Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Newton's Method
 |  |
 | ------- |
@@ -440,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/udhaych/DSA_Learning/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/udhaych/DSA_Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->

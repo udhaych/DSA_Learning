@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udhaych/DSA_Learning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/udhaych/DSA_Learning/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/udhaych/DSA_Learning/tree/master/3838-weighted-word-mapping) |
+| [3934-smallest-unique-subarray](https://github.com/udhaych/DSA_Learning/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/udhaych/DSA_Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/udhaych/DSA_Learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udhaych/DSA_Learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3934-smallest-unique-subarray](https://github.com/udhaych/DSA_Learning/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/udhaych/DSA_Learning/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/udhaych/DSA_Learning/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3731-find-missing-elements](https://github.com/udhaych/DSA_Learning/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/udhaych/DSA_Learning/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -448,4 +451,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/udhaych/DSA_Learning/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/udhaych/DSA_Learning/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/udhaych/DSA_Learning/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/udhaych/DSA_Learning/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
